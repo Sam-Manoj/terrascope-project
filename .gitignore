@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables (CRITICAL: Keeps your API keys safe)
+.env
+.env.local
+
+# ML Models and heavy datasets (Optional, uncomment if you have large model files)
+# *.h5
+# *.pkl
+# *.pt
+# /datasets/
+
+# OS generated files
+.DS_Store
+Thumbs.db

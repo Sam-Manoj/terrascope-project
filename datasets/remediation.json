@@ -1,0 +1,18 @@
+{
+    "nitrogen_deficiency": {
+        "diagnosis": "Nitrogen Deficit (Chlorosis)"
+    },
+    "phosphorus_deficiency": {
+        "diagnosis": "Phosphorus Anomaly"
+    },
+    "healthy_optimal": {
+        "id": "hlth_000",
+        "diagnosis": "Optimal Health",
+        "severity": "None",
+        "chromatic_marker": "#2E5C31",
+        "symptoms": "Vibrant, uniform green coloration with strong structural integrity.",
+        "organic_remediation": [
+            "Maintain current watering and feeding schedule."
+        ]
+    }
+}

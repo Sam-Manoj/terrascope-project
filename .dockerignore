@@ -1,0 +1,11 @@
+# Environments
+venv/
+env/
+__pycache__/
+
+# Raw Datasets (We only need the extracted CSV/JSON/Joblib)
+datasets/raw/
+*.zip
+
+# Git
+.git/
